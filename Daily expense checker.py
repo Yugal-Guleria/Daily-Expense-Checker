@@ -5,7 +5,7 @@ budget = input("Enter your daily budget: ")
 #Asking spend acccording to user type
 
 food = float(input("What is your today food expense? "))
-transportation = float(input(" is your today transportation expense? "))
+transportation = float(input(" what is your today transportation expense? "))
 entertainment = float(input("What is your today entertainment expense? "))
 utilities = float(input("What is your today utilities expense? "))
 other = float(input("What is your today other expenses? "))

@@ -1,6 +1,6 @@
 #Asking user for their Budget
 
-budget = input("Enter your daily budget: ")
+budget = input(" your daily budget: ")
 
 #Asking spend acccording to user type
 

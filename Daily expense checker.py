@@ -1,11 +1,11 @@
 #Asking user for their Budget
 
-budget = input("Enter your daily budget: ")okok
+budget = input("Enter your daily budget: ")
 
 #Asking spend acccording to user type
 
-food = float(input("What is your today food expense? "))okok
-transportation = float(input(" what is your today transportation expense? "))okok
+food = float(input("What is your today food expense? "))
+transportation = float(input(" what is your today transportation expense? "))
 entertainment = float(input("What is your today entertainment expense? "))
 utilities = float(input("What is your today utilities expense? "))
 other = float(input("What is your today other expenses? "))

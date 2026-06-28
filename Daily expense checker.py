@@ -1,4 +1,7 @@
-2#Asking user for their Budget
+3
+
+
+#Asking user for their Budget
 
 budget = input("Enter your daily budget: ")
 
